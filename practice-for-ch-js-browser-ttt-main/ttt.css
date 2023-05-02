@@ -1,1 +1,11 @@
-/* Your code here */
+ul {
+    display: flex;
+    width: 900px;
+    flex-wrap: wrap;
+    border: 1px solid black;
+}
+
+li {
+    width: 100px;
+    height: 100px;
+}
