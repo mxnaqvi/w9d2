@@ -12,5 +12,10 @@ li {
     list-style: none;
     cursor: pointer;
     background-color: gray;
+
+}
+
+li:hover  {
+    background-color: white;
 }
 
