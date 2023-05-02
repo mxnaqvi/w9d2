@@ -22,6 +22,7 @@ class View {
   
   
   handleClick(e) {
+    
   }
 
   makeMove(square) {
