@@ -6,8 +6,15 @@ class View {
   }
   
   setupBoard() {
-    
+   const parent = el.document.createElement("ul");
+    for (let i = 0; i < 3; i++) {
+      for (let j = 0; j < 3; j++){
+      let child = el.document.createElement("li");
+      parent.append(child);
+      }
+    }
   }
+  
   
   handleClick(e) {
   }
