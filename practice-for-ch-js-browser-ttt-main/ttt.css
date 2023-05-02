@@ -1,6 +1,6 @@
-ul {
+/* ul {
     display: flex;
-    width: 900px;
+    width: 300px;
     flex-wrap: wrap;
     border: 1px solid black;
 }
@@ -8,4 +8,4 @@ ul {
 li {
     width: 100px;
     height: 100px;
-}
+} */
